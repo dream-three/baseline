@@ -1,0 +1,101 @@
+ID,Constant,Symbol,Value,Unit,Year Defined
+1,Speed of Light,c,299792458,m/s,1983
+2,Planck Constant,h,6.62607040e-34,J s,1900
+3,Gravitational Constant,G,6.67408e-11,m3 kg-1 s-2,1687
+4,Avogadro Constant,NA,6.022140857e23,mol-1,1811
+5,Boltzmann Constant,k,1.38064852e-23,J K-1,1875
+6,Elementary Charge,e,1.6021766208e-19,C,1897
+7,Vacuum Permittivity,ε0,8.854187817e-12,F m-1,1881
+8,Vacuum Permeability,μ0,1.2566370614e-6,N A-2,1881
+9,Electron Mass,me,9.1093837015e-31,kg,1897
+10,Proton Mass,mp,1.672621898e-27,kg,1913
+11,Neutron Mass,mn,1.674927471e-27,kg,1932
+12,Fine-Structure Constant,α,7.2973525664e-3,1,1916
+13,Rydberg Constant,R∞,1.0973731568508e7,m-1,1888
+14,Bohr Radius,a0,5.29177210903e-11,m,1913
+15,Hartree Energy,Eh,4.359744650e-18,J,1928
+16,Stefan-Boltzmann Constant,σ,5.670367e-8,W m-2 K-4,1879
+17,Wien Displacement Constant,b,2.8977729e-3,m K,1893
+18,Solar Constant,S,1366,W m-2,1838
+19,Astronomical Unit,au,1.495978707e11,m,1959
+20,Light Year,ly,9.46073e15,m,1838
+21,Parsec,pc,3.08568e16,m,1913
+22,Earth Mass,ME,5.97237e24,kg,1798
+23,Earth Radius,RE,6.371e6,m,1791
+24, Hubble Constant,H0,70,km/s/Mpc,1929
+25,Planck Length,lp,1.616229e-35,m,1899
+26,Planck Mass,mp,2.17651e-8,kg,1899
+27,Planck Time,tp,5.39106e-44,s,1899
+28,Planck Temperature,Tp,1.416808e32,K,1899
+29,Planck Charge,qp,1.875545956e-18,C,1899
+30,Von Klitzing Constant,RK,25812.80745,ohm,1980
+31,Josephson Constant,KJ,4.83597870e14,Hz V-1,1969
+32,Magnetic Flux Quantum,Φ0,2.067833831e-15,Wb,1967
+33,Conductance Quantum,G0,7.7480917310e-5,S,1980
+34,Electron g-Factor,ge,-2.002319304361,1,1947
+35,Proton g-Factor,gp,5.585694689,1,1940
+36,Neutron g-Factor,gn,-3.82608545,1,1940
+37,Muon Mass,mμ,1.883531594e-28,kg,1897
+38,Tau Mass,mτ,3.16754e-27,kg,1975
+39,Alpha Particle Mass,mα,6.644657230e-27,kg,1897
+40,Deuteron Mass,md,3.3435837724e-27,kg,1932
+41,Triton Mass,mt,5.007356665e-27,kg,1939
+42,Helion Mass,mh,5.006412700e-27,kg,1928
+43,Bohr Magneton,μB,9.2740100783e-24,J T-1,1915
+44,Nuclear Magneton,μN,5.050783699e-27,J T-1,1933
+45,Electron Magnetic Moment,μe,-9.2847647043e-24,J T-1,1947
+46,Proton Magnetic Moment,μp,1.41060679736e-26,J T-1,1933
+47,Neutron Magnetic Moment,μn,-9.6623651e-27,J T-1,1940
+48,Muon Magnetic Moment,μμ,-4.49044830e-26,J T-1,1948
+49,Faraday Constant,F,96485.33212,C mol-1,1834
+50,Molar Gas Constant,R,8.314462618,J mol-1 K-1,1811
+51,Molar Planck Constant,Nh,3.9903127110e-10,J s mol-1,1900
+52,Molar Volume (Ideal Gas),Vm,0.02241396954,m3 mol-1,1811
+53,Loschmidt Constant,nL,2.686780111e25,m-3,1865
+54,Sackur-Tetrode Constant,S0,1.0,1,1912
+55,Weak Mixing Angle,sin2θW,0.23121,1,1973
+56,W Boson Mass,mW,80.379,GeV/c2,1983
+57,Z Boson Mass,mZ,91.1876,GeV/c2,1983
+58,Higgs Boson Mass,mH,125.1,GeV/c2,2012
+59,Compton Wavelength,λc,2.42631023867e-12,m,1923
+60,Electron Radius,re,2.8179403227e-15,m,1897
+61,Proton Radius,rp,8.414e-16,m,2010
+62,Neutron Radius,rn,1.113e-15,m,1932
+63,Thomson Cross Section,σe,6.6524587321e-29,m2,1906
+64,Bohr Velocity,vB,2.1876912633e6,m s-1,1913
+65, Rydberg Frequency,fR,3.289841960355e15,Hz,1888
+66,Electron Volt,eV,1.6021766208e-19,J,1912
+67,Atomic Mass Unit,u,1.66053906660e-27,kg,1960
+68,Dalton,Da,1.66053906660e-27,kg,1909
+69,Hartree Frequency,fH,6.579683920502e15,Hz,1928
+70,Reduced Compton Wavelength,λc-bar,3.8615926796e-13,m,1923
+71,Reduced Planck Constant,ħ,1.054571800e-34,J s,1900
+72,Dirac Constant,ħ,1.054571800e-34,J s,1927
+73,Verdet Constant,V,1.0,rad m-1 T-1,1845
+74,Curie Constant,C,1.0,K,1895
+75,Weiss Constant,θ,1.0,K,1906
+76,Stefan Number,St,1.0,1,1879
+77,Euler Number,Eu,1.0,1,1755
+78,Archimedes Number,Ar,1.0,1,250 BC
+79,Reynolds Number,Re,1.0,1,1883
+80,Prandtl Number,Pr,1.0,1,1921
+81,Nusselt Number,Nu,1.0,1,1915
+82,Grashof Number,Gr,1.0,1,1881
+83,Schmidt Number,Sc,1.0,1,1934
+84,Lewis Number,Le,1.0,1,1929
+85,Peclet Number,Pe,1.0,1,1896
+86,Biot Number,Bi,1.0,1,1804
+87,Fourier Number,Fo,1.0,1,1822
+88,Strouhal Number,Sr,1.0,1,1879
+89,Ohnesorge Number,Oh,1.0,1,1936
+90,Weber Number,We,1.0,1,1934
+91,Froude Number,Fr,1.0,1,1870
+92,Mach Number,Ma,1.0,1,1887
+93,Rossby Number,Ro,1.0,1,1936
+94,Ekman Number,Ek,1.0,1,1905
+95,Richardson Number,Ri,1.0,1,1920
+96,Rayleigh Number,Ra,1.0,1,1900
+97,Taylor Number,Ta,1.0,1,1923
+98,Damköhler Number,Da,1.0,1,1936
+99,Lewis Number,Le,1.0,1,1929
+100,Peclet Number,Pe,1.0,1,1896
