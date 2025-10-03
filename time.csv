@@ -1,0 +1,101 @@
+ID,Metric,Date,Details,Value
+1,Second Definition,1967-10-13,SI unit,9,192,631,770 cesium cycles
+2,Leap Second Introduction,1972-06-30,First leap,1 second added
+3,Leap Second 1972,1972-12-31,Second leap,1 second added
+4,Leap Second 1973,1973-12-31,Leap added,1 second
+5,Leap Second 1974,1974-12-31,Leap added,1 second
+6,Leap Second 1975,1975-12-31,Leap added,1 second
+7,Leap Second 1976,1976-12-31,Leap added,1 second
+8,Leap Second 1977,1977-12-31,Leap added,1 second
+9,Leap Second 1978,1978-12-31,Leap added,1 second
+10,Leap Second 1979,1979-12-31,Leap added,1 second
+11,Leap Second 1981,1981-06-30,Leap added,1 second
+12,Leap Second 1982,1982-06-30,Leap added,1 second
+13,Leap Second 1983,1983-06-30,Leap added,1 second
+14,Leap Second 1985,1985-06-30,Leap added,1 second
+15,Leap Second 1987,1987-12-31,Leap added,1 second
+16,Leap Second 1990,1990-12-31,Leap added,1 second
+17,Leap Second 1992,1992-06-30,Leap added,1 second
+18,Leap Second 1993,1993-06-30,Leap added,1 second
+19,Leap Second 1994,1994-06-30,Leap added,1 second
+20,Leap Second 1995,1995-12-31,Leap added,1 second
+21,Leap Second 1997,1997-06-30,Leap added,1 second
+22,Leap Second 1998,1998-12-31,Leap added,1 second
+23,Leap Second 2005,2005-12-31,Leap added,1 second
+24,Leap Second 2008,2008-12-31,Leap added,1 second
+25,Atomic Clock Invention,1955-01-01,First cesium clock,Accuracy 1s in 300 years
+26,UTC Establishment,1972-01-01,Coordinated Universal Time,Atomic time standard
+27,GPS Time Start,1980-01-06,GPS epoch,Atomic scale without leaps
+28,Time Dilation Theory,1905-09-26,Einstein's relativity,Seconds vary with speed/gravity
+29,Planck Time,1899-01-01,Max Planck,5.39e-44 seconds
+30,Julian Day,1583-01-01,Joseph Scaliger,Astronomical day count
+31,Gregorian Calendar,1582-10-15,Pope Gregory XIII,Leap year rules
+32,Sidereal Day,Ancient,Earth rotation,23h 56m 4s
+33,Solar Day,Ancient,Mean solar day,24 hours
+34,Sidereal Year,Ancient,Star return,365.256 days
+35,Tropical Year,Ancient,Equinox return,365.242 days
+36,Anomalistic Year,Ancient,Perihelion return,365.259 days
+37,Eclipse Year,Ancient,Eclipse return,346.62 days
+38,Lunar Month,Ancient,Synodic month,29.53 days
+39,Metonic Cycle,432 BC,Meton of Athens,19 years = 235 months
+40,Callippic Cycle,330 BC,Callippus,76 years = 940 months
+41,Julian Year,1583,Joseph Scaliger,365.25 days
+42,Gregorian Year,1582,Mean year,365.2425 days
+43,Besselian Year,1830,Friedrich Bessel,365.2421988 days
+44,Light Year,1838,Friedrich Bessel,9.46e12 km
+45,Parsec,1913,Herbert Hall Turner,3.26 light years
+46,Astronomical Unit,1959,IAU,149,597,870 km
+47,Hubble Constant,1929,Edwin Hubble,73 km/s/Mpc (approx)
+48,Big Bang Age,1990,Hubble data,13.8 billion years (pre-2012 estimate 13.7B)
+49,Earth Rotation Slowing,Ancient,Tidal friction,1.7 ms/century
+50,Atomic Time TAI,1958,International Atomic Time,No leaps
+51,UTC-TAI Difference,1972,Leap seconds,37 seconds in 2025
+52,Leap Second Rule,1972,UT1-UTC <0.9s,Added when needed
+53,First Leap Second,1972-06-30,1 second,UTC adjustment
+54,Leap Second Count Pre-2012,1972-2012,25 seconds added
+55,Time Standard BIPM,1884,Bureau International des Poids et Mesures,Metric time keeper
+56,Greenwich Mean Time,1884,UK standard,Prime meridian
+57,International Date Line,1884,180 meridian,Date change line
+58,Time Zones,1883,Sandford Fleming,24 zones
+59,Daylight Saving Time,1916,Germany,WWI energy saving
+60,Unix Epoch,1970-01-01,Unix time start,Seconds since
+61,Julian Date,1583,Julian day number,Astronomy count
+62,Sidereal Time,Ancient,Star-based time,Local meridian
+63,Apparent Solar Time,Ancient,Sundial time,Variable day length
+64,Mean Solar Time,Ancient,Average sun time,24-hour day
+65,Ephemeris Time,1952,Planetary motion time,Uniform scale
+66,Dynamical Time,1984,TDT/TT,Atomic-based ephemeris
+67,Barycentric Dynamical Time,1976,Solar system barycenter,Relativistic time
+68,Geocentric Coordinate Time,1976,Earth center,Relativistic
+69,International Atomic Time,1967,TAI,300 cesium clocks
+70,Coordinated Universal Time,1972,UTC,TAI with leaps
+71,GPS Time,1980,GPS epoch,TAI - 19 seconds
+72,Network Time Protocol,1985,David Mills,Internet time sync
+73,Radio Time Signals,1905,WWV station,Time broadcasts
+74,Speaking Clock,1933,UK service,Telephone time
+75,Quartz Clock,1927,Warren Marrison,Crystal oscillator
+76,Cesium Clock,1955,Louis Essen,Atomic standard
+77,Rubidium Clock,1960,Efratom,Portable atomic
+78,Hydrogen Maser,1960,Norman Ramsey,Active maser clock
+79,Optical Clock,2001,Jun Ye,Laser-cooled atoms
+80,Femtosecond Clock,2005,John Hall,Frequency combs
+81,Millisecond Pulsar,1982,Donald Backer,Natural atomic clock
+82,Time Dilation Test,1971,Hafele-Keating,Atomic clocks on planes
+83,Gravity Time Dilation,1959,Pound-Rebka,Gamma ray shift
+84,Relativity GPS Correction,1980,Special/general relativity,GPS clock adjustment
+85,International System of Units,1960,SI,Second definition
+86,Planck Time,1899,Max Planck,5.39e-44 seconds
+87,Planck Length,1899,Max Planck,1.62e-35 meters
+88,Planck Mass,1899,Max Planck,2.18e-8 kg
+89,Planck Charge,1899,Max Planck,1.88e-18 C
+90,Planck Temperature,1899,Max Planck,1.42e32 K
+91,Big Bang Time,1927,Georges Lemaître,13.8 billion years ago
+92,Planck Epoch,Big Bang,0 to 10-43 seconds,Quantum gravity era
+93,Electroweak Epoch,Big Bang,10-32 seconds,Forces unify
+94,Quark Epoch,Big Bang,10-12 seconds,Quarks form
+95,Hadron Epoch,Big Bang,10-6 seconds,Protons/neutrons form
+96,Lepton Epoch,Big Bang,1 second,Electrons/positrons dominate
+97,Photon Epoch,Big Bang,10 seconds,Photons dominate
+98,Nucleosynthesis,Big Bang,3-20 minutes,Light elements form
+99,Recombination,Big Bang,380,000 years,Atoms form
+100,Reionization,Big Bang,150-1000 million years,Galaxies ionize gas
