@@ -1,0 +1,101 @@
+ID,Eon,Era,Period,Date (Ma),Details
+1,Hadean,N/A,N/A,4600-4000,Earth formation, heavy bombardment.
+2,Archean,N/A,N/A,4000-2500,First life, continents form.
+3,Proterozoic,N/A,N/A,2500-541,Oxygenation, supercontinents.
+4,Phanerozoic,Paleozoic,Cambrian,541-485,Explosion of life.
+5,Phanerozoic,Paleozoic,Ordovician,485-444,Mass extinction.
+6,Phanerozoic,Paleozoic,Silurian,444-419,First land plants.
+7,Phanerozoic,Paleozoic,Devonian,419-359,First forests, fish evolve.
+8,Phanerozoic,Paleozoic,Carboniferous,359-299,Coal forests, amphibians.
+9,Phanerozoic,Paleozoic,Permian,299-252,Supercontinent Pangea, mass extinction.
+10,Phanerozoic,Mesozoic,Triassic,252-201,Recovery from extinction, dinosaurs emerge.
+11,Phanerozoic,Mesozoic,Jurassic,201-145,Dinosaurs dominate, birds evolve.
+12,Phanerozoic,Mesozoic,Cretaceous,145-66,Flowering plants, mass extinction.
+13,Phanerozoic,Cenozoic,Paleogene,66-23,Mammal radiation.
+14,Phanerozoic,Cenozoic,Neogene,23-2.58,Modern mammals evolve.
+15,Phanerozoic,Cenozoic,Quaternary,2.58-Present,Human evolution, ice ages.
+16,Archean,Eoarchean,N/A,4000-3600,First crust.
+17,Archean,Paleoarchean,N/A,3600-3200,Early life signs.
+18,Archean,Mesoarchean,N/A,3200-2800,Photosynthesis begins.
+19,Archean,Neoarchean,N/A,2800-2500,Continent stabilization.
+20,Proterozoic,Paleoproterozoic,N/A,2500-1600,Great Oxidation Event.
+21,Proterozoic,Mesoproterozoic,N/A,1600-1000,Rodinia supercontinent.
+22,Proterozoic,Neoproterozoic,N/A,1000-541,Snowball Earth, Ediacaran biota.
+23,Phanerozoic,Paleozoic,Cambrian Explosion,535-525,Diverse multicellular life.
+24,Phanerozoic,Paleozoic,Ordovician Radiation,485-470,Marine biodiversity peak.
+25,Phanerozoic,Paleozoic,Late Ordovician Extinction,445,60% species lost.
+26,Phanerozoic,Paleozoic,Silurian Recovery,430,Land colonization.
+27,Phanerozoic,Paleozoic,Devonian Forests,380,First trees.
+28,Phanerozoic,Paleozoic,Late Devonian Extinction,375,70% marine species lost.
+29,Phanerozoic,Paleozoic,Carboniferous Rainforests,320,Massive coal deposits.
+30,Phanerozoic,Paleozoic,Permian-Triassic Extinction,252,96% species lost.
+31,Phanerozoic,Mesozoic,Triassic Recovery,240,Early dinosaurs.
+32,Phanerozoic,Mesozoic,Triassic-Jurassic Extinction,201,76% species lost.
+33,Phanerozoic,Mesozoic,Jurassic Dinosaurs,180,Giant sauropods.
+34,Phanerozoic,Mesozoic,Cretaceous Flowers,100,Angiosperms spread.
+35,Phanerozoic,Mesozoic,K-Pg Extinction,66,75% species lost, asteroid impact.
+36,Phanerozoic,Cenozoic,Paleocene Recovery,60,Mammal diversification.
+37,Phanerozoic,Cenozoic,Eocene Warmth,50,Greenhouse Earth.
+38,Phanerozoic,Cenozoic,Oligocene Cooling,30,Ice caps form.
+39,Phanerozoic,Cenozoic,Miocene Grasslands,20,Savannas expand.
+40,Phanerozoic,Cenozoic,Pliocene Hominids,5,Early humans.
+41,Phanerozoic,Cenozoic,Pleistocene Ice Ages,2.58,Glaciations.
+42,Phanerozoic,Cenozoic,Holocene Agriculture,0.0117,Human civilization.
+43,Phanerozoic,Cenozoic,Anthropocene,0.0002,Human impact era.
+44,Archean,Eoarchean,Hadean Boundary,4030,Early crust formation.
+45,Archean,Paleoarchean,Stromatolites,3500,Early microbial life.
+46,Archean,Mesoarchean,Oxygen Photosynthesis,3200,Cyanobacteria.
+47,Archean,Neoarchean,Continental Growth,2800,Cratons stabilize.
+48,Proterozoic,Paleoproterozoic,Huronian Glaciation,2400,Snowball Earth.
+49,Proterozoic,Paleoproterozoic,Great Oxidation,2200,Atmospheric O2 rise.
+50,Proterozoic,Mesoproterozoic,Rodinia Assembly,1300,Supercontinent.
+51,Proterozoic,Neoproterozoic,Cryogenian Glaciation,720,Snowball Earth.
+52,Proterozoic,Neoproterozoic,Ediacaran Biota,635,Soft-bodied organisms.
+53,Phanerozoic,Paleozoic,Cambrian Period,541-485,Trilobites dominate.
+54,Phanerozoic,Paleozoic,Ordovician Period,485-444,First coral reefs.
+55,Phanerozoic,Paleozoic,Silurian Period,444-419,First vascular plants.
+56,Phanerozoic,Paleozoic,Devonian Period,419-359,First amphibians.
+57,Phanerozoic,Paleozoic,Carboniferous Period,359-299,Reptiles evolve.
+58,Phanerozoic,Paleozoic,Permian Period,299-252,Pangea forms.
+59,Phanerozoic,Mesozoic,Triassic Period,252-201,First mammals.
+60,Phanerozoic,Mesozoic,Jurassic Period,201-145,Flying reptiles.
+61,Phanerozoic,Mesozoic,Cretaceous Period,145-66,Tyrannosaurus rex.
+62,Phanerozoic,Cenozoic,Paleogene Period,66-23,Primate evolution.
+63,Phanerozoic,Cenozoic,Neogene Period,23-2.58,Hominids appear.
+64,Phanerozoic,Cenozoic,Quaternary Period,2.58-Present,Human dominance.
+65,Hadean Eon,Formation,4600-4000,Magma ocean.
+66,Archean Eon,Early Life,4000-2500,Bacteria emerge.
+67,Proterozoic Eon,Oxygenation,2500-541,Eukaryotes evolve.
+68,Phanerozoic Eon,Complex Life,541-Present,Animals dominate.
+69,Paleozoic Era,Cambrian Explosion,541-485,Marine life diversity.
+70,Mesozoic Era,Dinosaur Age,252-66,Reptiles rule.
+71,Cenozoic Era,Mammal Age,66-Present,Humans rise.
+72,Cambrian Period,Terreneuvian,541-521,Fortunian stage.
+73,Ordovician Period,Tremadocian,485-477,First fish.
+74,Silurian Period,Llandovery,444-433,Eurypterids.
+75,Devonian Period,Lochkovian,419-410,First insects.
+76,Carboniferous Period,Mississippian,359-323,Amphibians diversify.
+77,Permian Period,Cisuralian,299-272,Dimetrodon.
+78,Triassic Period,Induan,252-251,Post-extinction recovery.
+79,Jurassic Period,Hettangian,201-199,Sinraptor.
+80,Cretaceous Period,Berriasian,145-139,Velociraptor.
+81,Paleogene Period,Paleocene,66-56,Eocene primates.
+82,Neogene Period,Miocene,23-5.33,Australopithecus.
+83,Quaternary Period,Pleistocene,2.58-0.0117,Megafauna.
+84,Holocene Epoch,Meghalayan,0.0042-Present,Human civilization.
+85,Anthropocene Epoch,1950-Present,Human impact.
+86,Eoarchean Era,4000-3600,Early crust.
+87,Paleoarchean Era,3600-3200,First life signs.
+88,Mesoarchean Era,3200-2800,Photosynthesis.
+89,Neoarchean Era,2800-2500,Continent stabilization.
+90,Paleoproterozoic Era,2500-1600,Great Oxidation.
+91,Mesoproterozoic Era,1600-1000,Rodinia.
+92,Neoproterozoic Era,1000-541,Snowball Earth.
+93,Cryogenian Period,720-635,Glaciations.
+94,Ediacaran Period,635-541,Ediacaran biota.
+95,Tonian Period,1000-720,First multicellular.
+96,Stenian Period,1200-1000,Eukaryote diversification.
+97,Ectasian Period,1400-1200,Supercontinent breakup.
+98,Calymmian Period,1600-1400,Rodinia assembly.
+99,Siderian Period,2500-2300,Iron formations.
+100,Rhyacian Period,2300-2050,Huronian glaciation.
