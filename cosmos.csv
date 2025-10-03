@@ -1,0 +1,101 @@
+ID,Star/Galaxy,Constellation,RA (hours),Dec (degrees),Distance (ly),Details
+1,Sirius,Canis Major,6.75,-16.72,8.6,Brightest star, white dwarf companion.
+2,Canopus,Carina,6.4,-52.7,310,Second brightest star, supergiant.
+3,Alpha Centauri,Centaurus,14.66,-60.83,4.37,Closest star system, binary.
+4,Arcturus,Boötes,14.26,19.18,36.7,Orange giant, brightest in northern sky.
+5,Vega,Lyra,18.61,38.78,25,Blue-white star, part of Summer Triangle.
+6, Rigel,Orion,5.24,-8.2,860,Blue supergiant, Orion's foot.
+7,Procyon,Canis Minor,7.66,5.22,11.46,Binary system, white dwarf companion.
+8,Achernar,Eridanus,1.63,-57.24,139,Blue star, flattened by rotation.
+9,Betelgeuse,Orion,5.92,7.4,640,Red supergiant, variable brightness.
+10,Hadar,Centaurus,14.06,-60.37,390,Blue giant, Beta Centauri.
+11,Altair,Aquila,19.85,8.87,16.7,White star, Summer Triangle.
+12,Capella,Auriga,5.28,46.0,42.9,Binary giants, brightest in Auriga.
+13,Aldebaran,Taurus,4.6,16.51,65,Orange giant, Taurus eye.
+14,Antares,Scorpius,16.49,-26.43,550,Red supergiant, Scorpius heart.
+15,Spica,Virgo,13.42,-11.16,250,Binary blue giants, brightest in Virgo.
+16,Pollux,Gemini,7.76,28.03,34,Orange giant, Gemini twin.
+17,Fomalhaut,Piscis Austrinus,22.96,-29.62,25,White star, ring of debris.
+18,Deneb,Cygnus,20.69,45.28,2600,Blue supergiant, Summer Triangle.
+19,Mimosa,Crux,12.8,-59.68,280,Blue giant, Southern Cross.
+20,Regulus,Leo,10.14,11.97,79,Quadruple system, Leo heart.
+21,Adhara,Canis Major,6.97,-28.97,430,Blue giant, bright UV.
+22,Castor,Gemini,7.58,31.89,51,Multiple system, Gemini twin.
+23,Shaula,Scorpius,17.56,-37.1,570,Triple system, Scorpius sting.
+24,Bellatrix,Orion,5.42,6.35,240,Blue giant, Orion shoulder.
+25,Elnath,Taurus,5.44,28.61,131,Blue giant, Taurus horn.
+26,Alnilam,Orion,5.6,-1.2,1340,Blue supergiant, Orion belt middle.
+27,Alnitak,Orion,5.68,-1.94,800,Multiple blue supergiant, Orion belt left.
+28,Mintaka,Orion,5.53,-0.3,1200,Binary blue giant, Orion belt right.
+29,Saiph,Orion,5.79,-9.67,650,Blue supergiant, Orion knee.
+30,Betelgeuse Supernova Potential,Orion,5.92,7.4,640,May explode as supernova.
+31,Andromeda Galaxy,Andromeda,0.71,41.27,2500000,Closest spiral galaxy.
+32,Milky Way Center,Sagittarius,17.76,-29.01,26000,Galactic core with black hole.
+33,Triangulum Galaxy,Triangulum,1.56,30.66,3000000,Third largest in Local Group.
+34,Large Magellanic Cloud,Dorado,5.4,-69.75,160000,Irregular galaxy, satellite of Milky Way.
+35,Small Magellanic Cloud,Tucana,0.88,-72.83,200000,Irregular galaxy, satellite of Milky Way.
+36,Whirlpool Galaxy,Canes Venatici,13.5,47.2,23000000,Interacting spiral galaxy.
+37,Pinwheel Galaxy,Ursa Major,13.86,54.31,21000000,Grand design spiral.
+38,Sombrero Galaxy,Virgo,12.67,-11.62,29000000,Ring structure, bright core.
+39,Black Eye Galaxy,Coma Berenices,12.93,21.68,17000000,Dark dust band.
+40,Messier 87,Virgo,12.51,12.39,53000000,Elliptical with jet from black hole.
+41,Centaurus A,Centaurus,13.42,-43.02,13000000,Radio galaxy with dust lane.
+42,Bode's Galaxy,Ursa Major,9.93,69.07,12000000,Spiral with companion.
+43,Cigar Galaxy,Ursa Major,9.89,69.68,12000000,Starburst irregular galaxy.
+44,Cartwheel Galaxy,Sculptor,0.63,-33.71,500000000,Ring from collision.
+45,Hoag's Object,Serpens,15.29,21.32,600000000,Ring galaxy with central bar.
+46,Antennae Galaxies,Corvus,12.03,-18.88,45000000,Interacting spirals merging.
+47,Mouse Tail Galaxies,Coma Berenices,12.05,28.73,300000000,Tidal tails from merger.
+48,Circinus Galaxy,Circinus,14.22,-65.34,13000000,Active Seyfert galaxy.
+49,Comet Galaxy,Sculptor,0.51,-34.85,3500000000,Comet-like tail from ram pressure.
+50,Omega Centauri, Centaurus,13.44,-47.48,15800,Globular cluster with stars.
+51,Leo I,Leo,10.14,12.3,820000,Dwarf spheroidal galaxy.
+52,Messier 32,Andromeda,0.71,40.87,2500000,Elliptical satellite of Andromeda.
+53,Messier 110,Andromeda,0.67,41.68,2500000,Elliptical satellite of Andromeda.
+54,NGC 185, Cassiopeia,0.65,48.34,2000000,Dwarf elliptical galaxy.
+55,NGC 147, Cassiopeia,0.55,48.51,2200000,Dwarf spheroidal galaxy.
+56, Fornax Dwarf,Fornax,2.66,-34.45,460000,Dwarf spheroidal galaxy.
+57,Sculptor Dwarf,Sculptor,1.00,-33.71,290000,Dwarf spheroidal galaxy.
+58,Sextans Dwarf,Sextans,10.05,-1.61,290000,Dwarf spheroidal galaxy.
+59,Carina Dwarf,Carina,6.67,-50.96,330000,Dwarf spheroidal galaxy.
+60,Ursa Minor Dwarf,Ursa Minor,15.15,67.22,246000,Dwarf spheroidal galaxy.
+61,Draco Dwarf,Draco,17.34,57.92,251000,Dwarf spheroidal galaxy.
+62,Leo II,Leo,11.23,22.15,690000,Dwarf spheroidal galaxy.
+63,Leo T,Leo,9.57,17.05,1300000,Dwarf irregular galaxy.
+64,Phoenix Dwarf,Phoenix,1.53,-44.44,1450000,Dwarf irregular galaxy.
+65,Barnard's Galaxy,Sagittarius,19.74,-14.82,1600000,Dwarf irregular galaxy.
+66,NGC 6822,Aquarius,19.75,-14.8,1600000,Dwarf irregular galaxy.
+67,NGC 3109,Hydra,10.06,-26.16,4300000,Dwarf irregular galaxy.
+68,Sextans A,Sextans,10.18,-4.7,4300000,Dwarf irregular galaxy.
+69,Sextans B,Sextans,10.00,5.33,4400000,Dwarf irregular galaxy.
+70,Leo A,Leo,9.99,30.74,2600000,Dwarf irregular galaxy.
+71,IC 1613,Cetus,1.07,2.12,2300000,Dwarf irregular galaxy.
+72,Wolf-Lundmark-Melotte,Cetus,0.03,-15.46,3000000,Dwarf irregular galaxy.
+73,Tucana Dwarf,Tucana,22.41,-64.42,2900000,Dwarf spheroidal galaxy.
+74,Ursa Major I Dwarf,Ursa Major,10.48,51.92,330000,Dwarf spheroidal galaxy.
+75,Ursa Major II Dwarf,Ursa Major,8.81,63.13,100000,Dwarf spheroidal galaxy.
+76,Willman 1,Coma Berenices,10.45,51.05,120000,Dwarf galaxy or globular.
+77,Coma Berenices Dwarf,Coma Berenices,12.45,23.90,140000,Dwarf spheroidal galaxy.
+78,Boötes I Dwarf,Boötes,14.00,14.50,217000,Dwarf spheroidal galaxy.
+79,Boötes II Dwarf,Boötes,13.93,12.85,138000,Dwarf spheroidal galaxy.
+80,Canes Venatici I Dwarf,Canes Venatici,13.47,33.55,720000,Dwarf spheroidal galaxy.
+81,Canes Venatici II Dwarf,Canes Venatici,12.95,34.32,520000,Dwarf spheroidal galaxy.
+82,Canis Major Dwarf,Canis Major,7.03,-27.67,25000,Dwarf irregular galaxy.
+83,Hercules Dwarf,Hercules,16.51,12.78,430000,Dwarf spheroidal galaxy.
+84,Leo IV Dwarf,Leo,11.55, -0.53,530000,Dwarf spheroidal galaxy.
+85,Leo V Dwarf,Leo,11.55,2.22,580000,Dwarf spheroidal galaxy.
+86,Pisces II Dwarf,Pisces,22.98,5.95,590000,Dwarf spheroidal galaxy.
+87,Segway 1,Leo,10.12,16.08,75000,Dwarf galaxy or globular.
+88,Segway 2,Triangulum,2.32,20.17,114000,Dwarf spheroidal galaxy.
+89,Virgo Dwarf,Virgo,12.42,12.77,2200000,Dwarf irregular galaxy.
+90,Antlia Dwarf,Antlia,9.72,-26.88,4600000,Dwarf spheroidal galaxy.
+91,Crater 2 Dwarf,Crater,11.4,-18.41,380000,Dwarf spheroidal galaxy.
+92,Hydra II Dwarf,Hydra,12.64,-31.98,430000,Dwarf spheroidal galaxy.
+93,Pegasus Dwarf Irregular,Pegasus,23.47,14.75,2500000,Dwarf irregular galaxy.
+94,Cassiopeia Dwarf, Cassiopeia,23.45,50.68,2000000,Dwarf spheroidal galaxy.
+95,Andromeda II,Andromeda,1.27,33.42,2100000,Dwarf spheroidal galaxy.
+96,Andromeda III,Andromeda,0.59,35.63,2500000,Dwarf spheroidal galaxy.
+97,Andromeda V,Andromeda,0.22,47.5,2500000,Dwarf spheroidal galaxy.
+98,Andromeda VI,Andromeda,23.6,24.58,2500000,Dwarf spheroidal galaxy.
+99,Andromeda VII,Andromeda,23.48,50.68,2500000,Dwarf spheroidal galaxy.
+100,Andromeda VIII,Andromeda,0.71,45.6,2500000,Dwarf spheroidal galaxy.
