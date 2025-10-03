@@ -1,0 +1,101 @@
+ID,Eon,Era,Period,Epoch,Start (Ma),End (Ma),Details
+1,Hadean,None,None,None,4600,4000,Earth formation, magma ocean
+2,Archean,Eoarchean,None,None,4000,3600,Early crust, first life signs
+3,Archean,Paleoarchean,None,None,3600,3200,Stromatolites, microbial mats
+4,Archean,Mesoarchean,None,None,3200,2800,Photosynthesis begins, oxygen
+5,Archean,Neoarchean,None,None,2800,2500,Continent stabilization, cratons
+6,Proterozoic,Paleoproterozoic,None,None,2500,1600,Great Oxidation Event, O2 rise
+7,Proterozoic,Mesoproterozoic,None,None,1600,1000,Rodinia supercontinent assembly
+8,Proterozoic,Neoproterozoic,None,None,1000,541,Snowball Earth glaciations
+9,Proterozoic,Neoproterozoic,Cryogenian,None,720,635,Sturtian/Marinoan ice ages
+10,Proterozoic,Neoproterozoic,Ediacaran,None,635,541,Ediacaran biota, soft-bodied organisms
+11,Phanerozoic,Paleozoic,Cambrian,None,541,485,Cambrian Explosion, diverse life
+12,Phanerozoic,Paleozoic,Ordovician,None,485,444,Marine biodiversity peak, first reefs
+13,Phanerozoic,Paleozoic,Silurian,None,444,419,First land plants, vascular
+14,Phanerozoic,Paleozoic,Devonian,None,419,359,First forests, amphibians evolve
+15,Phanerozoic,Paleozoic,Carboniferous,None,359,299,Coal forests, reptiles appear
+16,Phanerozoic,Paleozoic,Permian,None,299,252,Pangea supercontinent, mass extinction
+17,Phanerozoic,Mesozoic,Triassic,None,252,201,Recovery, first dinosaurs
+18,Phanerozoic,Mesozoic,Jurassic,None,201,145,Dinosaurs dominate, birds evolve
+19,Phanerozoic,Mesozoic,Cretaceous,None,145,66,Flowering plants, asteroid extinction
+20,Phanerozoic,Cenozoic,Paleogene,Paleocene,66,56,Mammal radiation post-extinction
+21,Phanerozoic,Cenozoic,Paleogene,Eocene,56,33.9,Greenhouse climate, primates
+22,Phanerozoic,Cenozoic,Paleogene,Oligocene,33.9,23.03,Cooling, ice caps form
+23,Phanerozoic,Cenozoic,Neogene,Miocene,23.03,5.333,Grasslands expand, apes
+24,Phanerozoic,Cenozoic,Neogene,Pliocene,5.333,2.58,Hominids emerge, Australopithecus
+25,Phanerozoic,Cenozoic,Quaternary,Pleistocene,2.58,0.0117,Ice ages, Homo sapiens
+26,Phanerozoic,Cenozoic,Quaternary,Holocene,0.0117,0,Human civilization
+27,Archean,Eoarchean,Hadean Transition,4030,4000,Early crust formation
+28,Proterozoic,Paleoproterozoic,Huronian Glaciation,2400,2100,Snowball Earth
+29,Proterozoic,Mesoproterozoic,Calymmian,1600,1400,Eukaryote diversification
+30,Proterozoic,Mesoproterozoic,Ectasian,1400,1200,Supercontinent breakup
+31,Proterozoic,Mesoproterozoic,Stenian,1200,1000,Tonian transition
+32,Proterozoic,Neoproterozoic,Tonian,1000,720,First multicellular
+33,Phanerozoic,Paleozoic,Cambrian,Terreneuvian,541,521,Fortunian stage
+34,Phanerozoic,Paleozoic,Ordovician,Floian,477,470,Marine radiation
+35,Phanerozoic,Paleozoic,Silurian,Wenlock,433,427,Eurypterids
+36,Phanerozoic,Paleozoic,Devonian,Eifelian,393,388,First insects
+37,Phanerozoic,Paleozoic,Carboniferous,Serpukhovian,330,323,Amphibians diversify
+38,Phanerozoic,Paleozoic,Permian,Lopingian,259,252,Guadalupian extinction
+39,Phanerozoic,Mesozoic,Triassic,Middle,247,237,Carnian pluvial event
+40,Phanerozoic,Mesozoic,Jurassic,Middle,174,164,Callovian stage
+41,Phanerozoic,Mesozoic,Cretaceous,Late,100,66,Turonian stage
+42,Phanerozoic,Cenozoic,Paleogene,Eocene,Lutetian,47.8,41.2,Warm period
+43,Phanerozoic,Cenozoic,Neogene,Miocene,Tortonian,11.6,7.2,Grassland expansion
+44,Phanerozoic,Cenozoic,Quaternary,Pleistocene,Gelasian,2.58,1.8,Early humans
+45,Hadean Eon,Pre-Archean,4600,4000,Magma ocean phase
+46,Archean Eon,Early Archean,4000,3600,First rocks
+47,Proterozoic Eon,Late Proterozoic,1000,541,Ediacaran fauna
+48,Phanerozoic Eon,Early Phanerozoic,541,252,Paleozoic life boom
+49,Mesozoic Era,Dinosaur Age,252,66,Reptile dominance
+50,Cenozoic Era,Mammal Age,66,0,Human rise
+51,Cambrian Period,Series 2,521,509,First trilobites
+52,Ordovician Period,Darriwilian,470,458,Conodonts
+53,Silurian Period,Pridoli,423,419,First cooksonia plants
+54,Devonian Period,Famennian,372,359,Late extinction
+55,Carboniferous Period,Pennsylvanian,323,299,Reptiles
+56,Permian Period,Guadalupian,272,259,Dimetrodon
+57,Triassic Period,Late,237,201,Rhaetian stage
+58,Jurassic Period,Late,164,145,Kimmeridgian stage
+59,Cretaceous Period,Early,145,100,Albian stage
+60,Paleogene Period,Neogene Transition,23,23,Miocene start
+61,Quaternary Period,Recent,0,0,Human era
+62,Eon Division,Phanerozoic Start,541,0,Visible life
+63,Era Division,Paleozoic End,252,252,Permian extinction
+64,Period Division,Cretaceous End,66,66,K-Pg event
+65,Epoch Division,Holocene Start,0.0117,0,Post-ice age
+66,Age Division,Meghalayan,0.0042,0,Human impact
+67,Chronozone,Anthropocene,0.0002,0,Industrial revolution
+68,Hadean,Pre-Crust,4600,4500,Moon formation
+69,Archean,Pre-Oxygen,4000,3500,Life origin
+70,Proterozoic,Pre-Cambrian,2500,541,Multicell life
+71,Phanerozoic,Modern,541,0,Animal diversity
+72,Paleozoic,Cambrian to Permian,541,252,Invertebrates to reptiles
+73,Mesozoic,Triassic to Cretaceous,252,66,Dinosaurs
+74,Cenozoic,Paleogene to Quaternary,66,0,Mammals
+75,Cambrian,Terreneuvian,541,521,Fortunian
+76,Ordovician,Tremadocian,485,477,First fish
+77,Silurian,Llandovery,444,433,Eurypterids
+78,Devonian,Lochkovian,419,410,First insects
+79,Carboniferous,Mississippian,359,323,Amphibians
+80,Permian,Cisuralian,299,272,Dimetrodon
+81,Triassic,Induan,252,251,Post-extinction
+82,Jurassic,Hettangian,201,199,Sinraptor
+83,Cretaceous,Berriasian,145,139,Velociraptor
+84,Paleocene,DThanetian,59,56,Mammal radiation
+85,Eocene,Ypresian,56,47.8,Primates
+86,Oligocene,Rupelian,33.9,28.1,Cooling
+87,Miocene,Aquitanian,23.03,20.4,Australopithecus
+88,Pliocene,Zanclean,5.333,3.6,Hominids
+89,Pleistocene,Calabrian,1.8,0.126,Ice ages
+90,Holocene,Meghalayan,0.0042,0,Human civilization
+91,Anthropocene,1950,Present,Human impact
+92,Eoarchean,Pre-3600,4000,3600,Early crust
+93,Paleoarchean,Stromatolites,3600,3200,Microbial life
+94,Mesoarchean,Oxygen,3200,2800,Cyanobacteria
+95,Neoarchean,Continents,2800,2500,Cratons
+96,Paleoproterozoic,O2 Rise,2500,1600,Great Oxidation
+97,Mesoproterozoic,Rodinia,1600,1000,Supercontinent
+98,Neoproterozoic,Snowball,1000,541,Glaciations
+99,Cryogenian,Sturtian,720,660,Ice age
+100,Ediacaran,Biota,635,541,Soft-bodied organisms
