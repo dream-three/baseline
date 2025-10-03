@@ -1,0 +1,101 @@
+ID,Constant,Symbol,Value,Unit,Discovery Year,Details
+1,Speed of Light,c,299792458,m/s,1983,Exact value defined in SI
+2,Planck Constant,h,6.62607040e-34,J s,1900,Max Planck, quantum energy
+3,Gravitational Constant,G,6.67408e-11,m3 kg-1 s-2,1687,Newton, universal gravity
+4,Avogadro Constant,NA,6.022140857e23,mol-1,1811,Avogadro, mole definition
+5,Boltzmann Constant,k,1.38064852e-23,J K-1,1875,Boltzmann, gas constant
+6,Elementary Charge,e,1.6021766208e-19,C,1897,Thomson, electron charge
+7,Vacuum Permittivity,ε0,8.854187817e-12,F m-1,1881,Maxwell, electric constant
+8,Vacuum Permeability,μ0,1.2566370614e-6,N A-2,1881,Maxwell, magnetic constant
+9,Electron Mass,me,9.1093837015e-31,kg,1897,Thomson, electron rest mass
+10,Proton Mass,mp,1.672621898e-27,kg,1913,Rutherford, proton rest mass
+11,Neutron Mass,mn,1.674927471e-27,kg,1932,Chadwick, neutron rest mass
+12,Fine-Structure Constant,α,7.2973525664e-3,1,1916,Sommerfeld, electromagnetic coupling
+13,Rydberg Constant,R∞,1.0973731568508e7,m-1,1888,Rydberg, hydrogen spectrum
+14,Bohr Radius,a0,5.29177210903e-11,m,1913,Bohr, hydrogen atom size
+15,Hartree Energy,Eh,4.359744650e-18,J,1928,Hartree, atomic unit energy
+16,Stefan-Boltzmann Constant,σ,5.670367e-8,W m-2 K-4,1879,Stefan, blackbody radiation
+17,Wien Displacement Constant,b,2.8977729e-3,m K,1893,Wien, blackbody peak
+18,Solar Constant,S,1366,W m-2,1838,Pouillet, solar irradiance
+19,Astronomical Unit,au,1.495978707e11,m,1959,IAU, Earth-Sun distance
+20,Light Year,ly,9.46073e15,m,1838,Bessel, distance light travels in year
+21,Parsec,pc,3.08568e16,m,1913,Turner, parallax second
+22,Earth Mass,ME,5.97237e24,kg,1798,Cavendish, density experiment
+23,Earth Radius,RE,6.371e6,m,1791,Eratosthenes, circumference calculation
+24,Hubble Constant,H0,70,km/s/Mpc,1929,Hubble, universe expansion
+25,Planck Length,lp,1.616229e-35,m,1899,Planck, quantum gravity scale
+26,Planck Mass,mp,2.17651e-8,kg,1899,Planck, quantum gravity scale
+27,Planck Time,tp,5.39106e-44,s,1899,Planck, quantum gravity scale
+28,Planck Temperature,Tp,1.416808e32,K,1899,Planck, quantum gravity scale
+29,Planck Charge,qp,1.875545956e-18,C,1899,Planck, quantum gravity scale
+30,Von Klitzing Constant,RK,25812.80745,ohm,1980,Klitzing, quantum Hall effect
+31,Josephson Constant,KJ,4.83597870e14,Hz V-1,1969,Josephson, voltage-frequency
+32,Magnetic Flux Quantum,Φ0,2.067833831e-15,Wb,1967,London, superconductivity
+33,Conductance Quantum,G0,7.7480917310e-5,S,1980,Landauer, quantum conductance
+34,Electron g-Factor,ge,-2.002319304361,1,1947,Rabi, magnetic moment
+35,Proton g-Factor,gp,5.585694689,1,1940,Stern, magnetic moment
+36,Neutron g-Factor,gn,-3.82608545,1,1940,Alvarez, magnetic moment
+37,Muon Mass,mμ,1.883531594e-28,kg,1948, cosmic rays
+38,Tau Mass,mτ,3.16754e-27,kg,1975,Perl, lepton particle
+39,Alpha Particle Mass,mα,6.644657230e-27,kg,1897,Rutherford, helium nucleus
+40,Deuteron Mass,md,3.3435837724e-27,kg,1932,Chadwick, heavy hydrogen
+41,Triton Mass,mt,5.007356665e-27,kg,1939,Lawrence, radioactive hydrogen
+42,Helion Mass,mh,5.006412700e-27,kg,1928,helium nucleus
+43,Bohr Magneton,μB,9.2740100783e-24,J T-1,1915,Bohr, atomic magnetism
+44,Nuclear Magneton,μN,5.050783699e-27,J T-1,1933,Stern, nuclear magnetism
+45,Electron Magnetic Moment,μe,-9.2847647043e-24,J T-1,1947,Kusch, anomalous moment
+46,Proton Magnetic Moment,μp,1.41060679736e-26,J T-1,1933,Stern, proton spin
+47,Neutron Magnetic Moment,μn,-9.6623651e-27,J T-1,1940,Alvarez, neutron spin
+48,Muon Magnetic Moment,μμ,-4.49044830e-26,J T-1,1948,Rabi, muon spin
+49,Faraday Constant,F,96485.33212,C mol-1,1834,Faraday, electrolysis
+50,Molar Gas Constant,R,8.314462618,J mol-1 K-1,1811,Avogadro, ideal gas law
+51,Molar Planck Constant,Nh,3.9903127110e-10,J s mol-1,1900,Planck, quantum mole
+52,Molar Volume Vm,0.02241396954,m3 mol-1,1811,Avogadro, ideal gas
+53,Loschmidt Constant,nL,2.686780111e25,m-3,1865,Loschmidt, molecules per volume
+54,Sackur-Tetrode Constant,S0,1.0,1,1912,Sackur, ideal gas entropy
+55,Weak Mixing Angle,sin2θW,0.23121,1,1973,Glashow, electroweak theory
+56,W Boson Mass,mW,80.379,GeV/c2,1983,CERN, weak force carrier
+57,Z Boson Mass,mZ,91.1876,GeV/c2,1983,CERN, neutral weak carrier
+58,Higgs Boson Mass,mH,125.1,GeV/c2,2012,CERN, mass giver
+59,Compton Wavelength,λc,2.42631023867e-12,m,1923,Compton, electron scattering
+60,Electron Radius,re,2.8179403227e-15,m,1897,Thomson, classical radius
+61,Proton Radius,rp,8.414e-16,m,2010,CODATA, proton size
+62,Neutron Radius,rn,1.113e-15,m,1932,Chadwick, neutron size
+63,Thomson Cross Section,σe,6.6524587321e-29,m2,1906,Thomson, electron scattering
+64,Bohr Velocity,vB,2.1876912633e6,m s-1,1913,Bohr, hydrogen electron
+65,Rydberg Frequency,fR,3.289841960355e15,Hz,1888,Rydberg, hydrogen spectrum
+66,Electron Volt,eV,1.6021766208e-19,J,1912,Milikan, energy unit
+67,Atomic Mass Unit,u,1.66053906660e-27,kg,1960,Avogadro, mass unit
+68,Dalton,Da,1.66053906660e-27,kg,1909,Dalton, atomic mass
+69,Hartree Frequency,fH,6.579683920502e15,Hz,1928,Hartree, atomic frequency
+70,Reduced Compton Wavelength,λc-bar,3.8615926796e-13,m,1923,Compton, reduced
+71,Reduced Planck Constant,ħ,1.054571800e-34,J s,1900,Planck, angular momentum
+72,Dirac Constant,ħ,1.054571800e-34,J s,1927,Dirac, quantum mechanics
+73,Verdet Constant,V,1.0,rad m-1 T-1,1845,Faraday, magneto-optics
+74,Curie Constant,C,1.0,K,1895,Curie, paramagnetism
+75,Weiss Constant,θ,1.0,K,1906,Weiss, ferromagnetism
+76,Stefan Number,St,1.0,1,1879,Stefan, phase change
+77,Euler Number,Eu,1.0,1,1755,Euler, fluid dynamics
+78,Archimedes Number,Ar,1.0,1,250 BC,Archimedes, buoyancy
+79,Reynolds Number,Re,1.0,1,1883,Reynolds, flow type
+80,Prandtl Number,Pr,1.0,1,1921,Prandtl, heat transfer
+81,Nusselt Number,Nu,1.0,1,1915,Nusselt, convection
+82,Grashof Number,Gr,1.0,1,1881,Grashof, natural convection
+83,Schmidt Number,Sc,1.0,1,1934,Schmidt, mass transfer
+84,Lewis Number,Le,1.0,1,1929,Lewis, diffusion
+85,Peclet Number,Pe,1.0,1,1896,Peclet, advection
+86,Biot Number,Bi,1.0,1,1804,Biot, heat conduction
+87,Fourier Number,Fo,1.0,1,1822,Fourier, heat diffusion
+88,Strouhal Number,Sr,1.0,1,1879,Strouhal, vortex shedding
+89,Ohnesorge Number,Oh,1.0,1,1936,Ohnesorge, viscosity
+90,Weber Number,We,1.0,1,1934,Weber, surface tension
+91,Froude Number,Fr,1.0,1,1870,Froude, wave resistance
+92,Mach Number,Ma,1.0,1,1887,Mach, supersonic flow
+93,Rossby Number,Ro,1.0,1,1936,Rossby, rotation
+94,Ekman Number,Ek,1.0,1,1905,Ekman, viscosity rotation
+95,Richardson Number,Ri,1.0,1,1920,Richardson, buoyancy
+96,Rayleigh Number,Ra,1.0,1,1900,Rayleigh, convection instability
+97,Taylor Number,Ta,1.0,1,1923,Taylor, instability
+98,Damköhler Number,Da,1.0,1,1936,Damköhler, reaction rate
+99,Lewis Number,Le,1.0,1,1929,Lewis, diffusion
+100,Peclet Number,Pe,1.0,1,1896,Peclet, advection
