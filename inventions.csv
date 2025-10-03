@@ -1,0 +1,101 @@
+ID,Invention,Date,Inventor,Location,Details
+1,Stone Tools,3300000 BC,Unknown,Africa,Oldowan tools for cutting and scraping.
+2,Wheel,3500 BC,Unknown,Mesopotamia,Used for pottery and transportation.
+3,Writing System,3200 BC,Unknown,Mesopotamia,Cuneiform script for records.
+4,Paper,105 AD,Cai Lun,China,From mulberry bark for writing.
+5,Printing Press,1440,Johannes Gutenberg,Germany,Movable type for mass books.
+6,Telephone,1876,Alexander Graham Bell,USA,Electrical speech transmission.
+7,Electric Light Bulb,1879,Thomas Edison,USA,Carbon filament for lighting.
+8,Automobile,1885,Karl Benz,Germany,Gasoline-powered vehicle.
+9,Airplane,1903,Wright Brothers,USA,First powered flight.
+10,Penicillin,1928,Alexander Fleming,UK,Antibiotic from mold.
+11,Computer,1945,John Mauchly/ J. Presper Eckert,USA,ENIAC for calculations.
+12,Internet,1969,ARPA,USA,ARPAnet for network communication.
+13,World Wide Web,1989,Tim Berners-Lee,Switzerland,HTTP/HTML for web pages.
+14,Steam Engine,1712,Thomas Newcomen,England,For pumping water from mines.
+15,Telegraph,1837,Samuel Morse,USA,Electric signals for messages.
+16,Radio,1895,Guglielmo Marconi,Italy,Wireless communication.
+17,Television,1927,Philo Farnsworth,USA,Electronic image transmission.
+18,Refrigerator,1834,Jacob Perkins,USA,Vapor compression for cooling.
+19,Vaccine,1796,Edward Jenner,England,Smallpox prevention.
+20,Anesthesia,1846,William Morton,USA,Ether for surgery.
+21,X-Ray,1895,Wilhelm Roentgen,Germany,Medical imaging.
+22,DNA Structure,1953,Watson/Crick,UK,Double helix model.
+23,Microchip,1958,Jack Kilby,USA,Integrated circuit for electronics.
+24,Laser,1960,Theodore Maiman,USA,Coherent light beam.
+25,Mobile Phone,1973,Martin Cooper,USA,Portable cellular call.
+26,Personal Computer,1975,Altair 8800,USA,Home computing.
+27,GPS,1978,US Department of Defense,USA,Satellite navigation.
+28,Compact Disc,1982,Philips/Sony,Netherlands,Digital audio storage.
+29,World's First Website,1991,Tim Berners-Lee,Switzerland,Info.cern.ch.
+30,Smartphone,1992,IBM,USA,Simon with touchscreen.
+31,Electric Battery,1800,Alessandro Volta,Italy,Voltaic pile.
+32,Photography,1826,Joseph Niépce,France,First permanent photo.
+33,Railway Locomotive,1804,Richard Trevithick,England,Steam-powered train.
+34,Sewing Machine,1846,Elias Howe,USA,Automated stitching.
+35,Dynamite,1867,Alfred Nobel,Sweden,Explosive for mining.
+36,Phonograph,1877,Thomas Edison,USA,Sound recording.
+37,Motion Picture Camera,1891,Thomas Edison,USA,Kinetograph for films.
+38,Wireless Radio,1896,Guglielmo Marconi,Italy,First transmission.
+39,Air Conditioning,1902,Willis Carrier,USA,Cooling system.
+40,Radar,1935,Robert Watson-Watt,UK,Radio detection.
+41,Microwave Oven,1945,Percy Spencer,USA,Radarange for heating.
+42,Velcro,1948,George de Mestral,Switzerland,Hook and loop fastener.
+43,Credit Card,1950,Frank McNamara,USA,Diners Club card.
+44,Supercomputer,1964,Seymour Cray,USA,CDC 6600.
+45,ATM,1967,John Shepherd-Barron,UK,Automated teller machine.
+46,Barcode,1974,Norman Woodland,USA,UPC for scanning.
+47,Walkman,1979,Sony,Japan,Portable cassette player.
+48,Compact Disc Player,1982,Philips/Sony,Netherlands,Digital music playback.
+49,Windows OS,1985,Microsoft,USA,Graphical user interface.
+50,World Wide Web,1990,Tim Berners-Lee,Switzerland,Information sharing.
+51,MP3 Player,1997,SaeHan,USA,Portable digital music.
+52,iPod,2001,Apple,USA,Music player with storage.
+53,YouTube,2005,Jawed Karim,USA,Video sharing platform.
+54,iPhone,2007,Apple,USA,Touchscreen smartphone.
+55,Android OS,2008,Google,USA,Open-source mobile OS.
+56,Bitcoin,2009,Satoshi Nakamoto,Japan,Digital currency.
+57,iPad,2010,Apple,USA,Tablet computer.
+58,Instagram,2010,Kevin Systrom,USA,Photo sharing app.
+59,Zoom,2011,Eric Yuan,USA,Video conferencing.
+60,CRISPR,2012,Jennifer Doudna,USA,Gene editing tool.
+61,3D Printing,1984,Chuck Hull,USA,Additive manufacturing.
+62,DNA Sequencing,1977,Frederick Sanger,UK,Genetic code reading.
+63,Human Genome Project,2003,International Consortium,USA,Full human DNA map.
+64, Hubble Telescope,1990,NASA,USA,Space observations.
+65,Large Hadron Collider,2008,CERN,Switzerland,Particle accelerator.
+66,International Space Station,1998,International,Space,Orbital laboratory.
+67,Electric Car (Tesla),2008,Tesla,USA,Roadster model.
+68,Autonomous Drone,2010,Parrot,France,AR.Drone.
+69,VR Headset,2012,Oculus,USA,Rift for virtual reality.
+70,AI Chatbot (Siri),2011,Apple,USA,Voice assistant.
+71,Bitcoin Mining,2009,Satoshi Nakamoto,Japan,Blockchain validation.
+72,Quantum Computer,1998,IBM,USA,First qubit demo.
+73,CRISPR Babies,2018,He Jiankui,China,Gene-edited humans.
+74,COVID Vaccine,2020,Pfizer/BioNTech,USA,mRNA technology.
+75,James Webb Telescope,2021,NASA,USA,Infrared space telescope.
+76,Electric Battery,1800,Alessandro Volta,Italy,Voltaic pile.
+77,Photography,1826,Joseph Niépce,France,First permanent photo.
+78,Railway Locomotive,1804,Richard Trevithick,England,Steam-powered train.
+79,Sewing Machine,1846,Elias Howe,USA,Automated stitching.
+80,Dynamite,1867,Alfred Nobel,Sweden,Explosive for mining.
+81,Phonograph,1877,Thomas Edison,USA,Sound recording.
+82,Motion Picture Camera,1891,Thomas Edison,USA,Kinetograph for films.
+83,Wireless Radio,1896,Guglielmo Marconi,Italy,First transmission.
+84,Air Conditioning,1902,Willis Carrier,USA,Cooling system.
+85,Radar,1935,Robert Watson-Watt,UK,Radio detection.
+86,Microwave Oven,1945,Percy Spencer,USA,Radarange for heating.
+87,Velcro,1948,George de Mestral,Switzerland,Hook and loop fastener.
+88,Credit Card,1950,Frank McNamara,USA,Diners Club card.
+89,Supercomputer,1964,Seymour Cray,USA,CDC 6600.
+90,ATM,1967,John Shepherd-Barron,UK,Automated teller machine.
+91,Barcode,1974,Norman Woodland,USA,UPC for scanning.
+92,Walkman,1979,Sony,Japan,Portable cassette player.
+93,Compact Disc,1982,Philips/Sony,Netherlands,Digital audio storage.
+94,Windows OS,1985,Microsoft,USA,Graphical user interface.
+95,World Wide Web,1990,Tim Berners-Lee,Switzerland,Information sharing.
+96,MP3 Player,1997,SaeHan,USA,Portable digital music.
+97,iPod,2001,Apple,USA,Music player with storage.
+98,YouTube,2005,Jawed Karim,USA,Video sharing platform.
+99,iPhone,2007,Apple,USA,Touchscreen smartphone.
+100,Android OS,2008,Google,USA,Open-source mobile OS.
