@@ -23,7 +23,7 @@ import (
 )
 
 const (
-    baseURL        = "https://raw.githubusercontent.com/MainakRepositor/Datasets/refs/heads/main/"
+    baseURL        = "https://raw.githubusercontent.com/dream-three/baseline/refs/heads/main/"
     defaultMinutes = 60
     fetchPause     = 5 * time.Second
     logFile        = "shifts.log"
